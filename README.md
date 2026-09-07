@@ -19,11 +19,19 @@ DevOps → LLMOps → AgentOps
 
 ## Repository structure
 
+- `curriculum/` — executable 12-week curriculum and free learning resources
 - `roadmap/` — learning roadmap and milestones
 - `projects/` — hands-on projects and evidence
 - `notes/` — technical notes and summaries
 - `decisions/` — architecture and tool decisions
 - `weekly-progress/` — weekly learning log
+
+## Start here
+
+1. Read the [12-week curriculum](curriculum/README.md).
+2. Start [Week 1: AI task classification](curriculum/12-week-foundation/week-01.md).
+3. Record progress with [the weekly template](weekly-progress/TEMPLATE.md).
+4. Build evidence under [Read-only Ops Copilot](projects/read-only-ops-copilot/README.md).
 
 ## Safety principles
 

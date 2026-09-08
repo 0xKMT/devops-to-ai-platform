@@ -77,7 +77,7 @@ The goal is decision support, not automated incident command or remediation.
 | Resource | Exact sections | Time | Why |
 | --- | --- | ---: | --- |
 | [Google SRE Book: Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/) | `Why Monitor?`; `Symptoms Versus Causes`; `The Four Golden Signals` | 35 minutes | Choose signals that support operator decisions and avoid confusing symptoms with causes. |
-| [Google SRE Book: Managing Incidents](https://sre.google/sre-book/managing-incidents/) | Opening scenario; `Elements of Incident Management Process`; `A Recognized Command Post`; `A Live Incident State Document` | 35 minutes | Structure incident state and preserve human operational ownership. |
+| [Google SRE Book: Managing Incidents](https://sre.google/sre-book/managing-incidents/) | Opening scenario; `Elements of Incident Management Process`; `A Recognized Command Post`; `Live Incident State Document` | 35 minutes | Structure incident state and preserve human operational ownership. |
 | [Google SRE Workbook: Incident Response](https://sre.google/workbook/incident-response/) | `Putting Best Practices into Practice` → `Incident Response Training`, `Prepare Beforehand` and `Drills` | 25 minutes | Treat the replay as a controlled drill, not a production experiment. |
 
 All resources are free.

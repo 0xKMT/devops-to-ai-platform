@@ -184,10 +184,10 @@ Use the official Python SDK and type constraints. Every tool must have:
 Use stdio as the core transport:
 
 ```bash
-python -m projects.read-only-ops-copilot.mcp_server.server
+python projects/read-only-ops-copilot/mcp_server/server.py
 ```
 
-If the project layout does not support module execution, document and use the equivalent direct path. The process should wait for MCP input and must not open a public network listener.
+The process should wait for MCP input and must not open a public network listener.
 
 Optionally inspect it:
 
